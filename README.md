@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [...](https://www.linkedin.com/in/paulo-anjos-33a882200/)
-- 😄 Pronouns: Him/his
 <!-- - ⚡ Fun fact: ... -->
 
