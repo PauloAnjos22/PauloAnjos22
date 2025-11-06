@@ -1,19 +1,36 @@
-##
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <a href="[https://github.com/PauloAnjos22]"> 
-    <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=PauloAnjos22&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAnjos22&layout=compact&langs_count=7&theme=onedark"/>
+# 👩🏻‍💻 Paulo Anjos
+
+**`Desenvolvedor FullStack`**
+<p>
+  Tenho 23 anos e sou natural do interior de São Paulo. Sou formado em Ciência da Computação pela UFSCar – Campus Sorocaba, onde aprimorei meus conhecimentos em programação e desenvolvimento de sistemas. Meu primeiro contato com a área ocorreu no curso técnico em Automação Industrial durante o ensino médio no IFSP – Salto, experiência que despertou meu interesse por tecnologia e me motivou a seguir na área.
+</p>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-anjos-33a882200)
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vue,cs,docker,dotnet,rabbitmq,laravel,php,html,css,js" />
   </a>
-</div>
+</p>
 
-##
-<br>
-<div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,vue,docker,dotnet,cs" />
-</a>
-  <br />
+                    
+### 📊 Estatísticas
 
-</div>
-
-
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-three-lake-84.vercel.app/api?username=PauloAnjos22&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAnjos22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
