@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Paulo Anjos
+# 👨🏻‍💻 Paulo Anjos
 
 **`Desenvolvedor FullStack`**
 <p>
